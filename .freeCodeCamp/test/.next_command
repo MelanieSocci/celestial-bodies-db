@@ -94,3 +94,4 @@ git remote add origin https://github.com/MelanieSocci/Build-a-Celestial-Bodies-D
 git remote remove origin
 git remote add origin https://github.com/MelanieSocci/celestial-bodies-db.git
 git add .
+git add .
